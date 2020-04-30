@@ -15,11 +15,3 @@ Logic Inference:
 * Knights: logical inference to solve knight knave puzzles
 * Minesweeper: logical inference based Minesweeper AI
 
-Learning:
-* nim: reinforcement learning to play nim
-* shopping: ML K nearest neighbor classification implementation
-
-NLP:
-* parser: Context free grammar chunking
-* Information extraction using tf idf
-
